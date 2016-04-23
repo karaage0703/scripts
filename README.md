@@ -8,9 +8,9 @@ Mac OS X and Linux(Ubuntu 14.04)
 
 # Setup
 ```sh
+$ cd
 $ git clone https://github.com/karaage0703/scripts.git
-$ cd scripts
-$ 
+$ sudo ln -sf ~/scripts/nyamazu.sh /usr/local/bin/nyamazu
 ```
 
 # How to use
