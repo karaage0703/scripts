@@ -13,11 +13,25 @@ $ git clone https://github.com/karaage0703/scripts.git
 $ sudo ln -sf ~/scripts/nyamazu.sh /usr/local/bin/nyamazu
 ```
 
-# How to use
-## Nyamazu
+# Usage
+## nyamazu
+Execute following command:
+```sh
+$ nyamazu search_place search_word
+```
 
+ex:
+```sh
+$ nyamazu . test
+```
 
+## proxy.sh
+Edit `proxy.sh` 
 
+Execute following command:
+```sh
+$ source proxy.sh
+```
 
 # Special Thanks
 - http://lab.tricorn.co.jp/suzuki/1543
