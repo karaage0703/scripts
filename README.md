@@ -37,3 +37,4 @@ $ source proxy.sh
 - http://lab.tricorn.co.jp/suzuki/1543
 - https://github.com/Linux-Admins/Shell
 - https://github.com/janosgyerik/shellscripts
+- http://myenigma.hatenablog.com/entry/2015/06/23/220100
