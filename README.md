@@ -25,7 +25,7 @@ ex:
 $ nyamazu test /
 ```
 
-Following commands same as `$ nyamazu test .`:
+Following command same as `$ nyamazu test .`:
 ```sh
 $ nyamazu test 
 ```
