@@ -17,13 +17,20 @@ $ sudo ln -sf ~/scripts/nyamazu.sh /usr/local/bin/nyamazu
 ## nyamazu
 Execute following command:
 ```sh
-$ nyamazu search_place search_word
+$ nyamazu search_word search_place
 ```
 
 ex:
 ```sh
-$ nyamazu . test
+$ nyamazu test /
 ```
+
+Following commands same as `$ nyamazu test .`:
+```sh
+$ nyamazu test 
+```
+
+
 
 ## proxy.sh
 Edit `proxy.sh` 
