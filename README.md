@@ -30,7 +30,7 @@ Edit `proxy.sh`
 
 Execute following command:
 ```sh
-$ source proxy.sh
+$ source ~/scripts/proxy.sh
 ```
 
 # Special Thanks
