@@ -52,7 +52,7 @@ If there are following files:
 100.jpg abc.jpg xyz_100.jpg
 ```
 
-Execute following command:
+Execute following command in directory including above files:
 ```sh
 $ numbering_filename
 ```
