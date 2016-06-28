@@ -68,3 +68,7 @@ Files are renamed like below:
 - https://github.com/janosgyerik/shellscripts
 - http://myenigma.hatenablog.com/entry/2015/06/23/220100
 - http://www.nilab.info/z3/20111010_01.html
+
+
+# License
+This software is released under the MIT License, see LICENSE.
