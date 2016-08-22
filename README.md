@@ -1,9 +1,9 @@
 # scripts
-Useful shell scripts or python scripts or somethin... for Mac OS and Linux(Ubuntu)
+Useful shell scripts or python scripts or something... for Mac OS or Linux(Ubuntu)
 
 
 # Environment
-Mac OS X and Linux(Ubuntu 14.04)
+Mac OS X or Linux(Ubuntu 14.04)
 
 
 # Setup
