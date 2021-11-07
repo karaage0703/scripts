@@ -3,8 +3,7 @@ Useful shell scripts or python scripts or something... for Mac OS or Linux(Ubunt
 
 
 # Environment
-Mac OS X or Linux(Ubuntu 14.04)
-
+Mac OS X or Linux(Ubuntu)
 
 # Setup
 ```sh
@@ -61,6 +60,17 @@ Files are renamed like below:
 ```
 000001.jpg 000002.jpg 000003.jpg
 ```
+
+## compress_all_video
+Compress all video file script
+
+Install ffmpeg and execute following command:
+
+```sh
+$ ./compress_all_video.sh
+```
+
+reference: [複数動画を一括で10分の1くらいに圧縮する方法（Win/Mac）](https://zenn.dev/karaage0703/articles/2fa835a1cbe250)
 
 # Special Thanks
 - http://lab.tricorn.co.jp/suzuki/1543
